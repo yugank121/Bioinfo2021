@@ -4,4 +4,4 @@ Example repository for the course "Bioinformatik für Tier- und Pflanzenwissensc
 Adding some example text
 
 
-This is me expressing myself
+Trying out Git and pushing stuff!
